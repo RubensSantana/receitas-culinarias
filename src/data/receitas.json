@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "titulo": "Bolo de Cenoura",
+    "ingredientes": ["3 cenouras médias", "4 ovos", "2 xícaras de açúcar", "2 e 1/2 xícaras de farinha de trigo", "1 xícara de óleo", "1 colher de sopa de fermento em pó"],
+    "modoPreparo": "Bata no liquidificador as cenouras, ovos e óleo. Em uma tigela, misture o açúcar, a farinha de trigo e o fermento. Adicione a mistura do liquidificador e mexa bem. Despeje a massa em uma forma untada e asse em forno pré-aquecido a 180°C por cerca de 40 minutos."
+  },
+  {
+    "id": 2,
+    "titulo": "Lasanha de Carne",
+    "ingredientes": ["500g de carne moída", "1 pacote de massa para lasanha", "300g de queijo muçarela", "300g de presunto", "1 lata de molho de tomate", "Sal e temperos a gosto"],
+    "modoPreparo": "Refogue a carne moída e adicione o molho de tomate. Monte a lasanha alternando camadas de massa, carne, presunto e queijo. Finalize com uma camada de queijo e leve ao forno pré-aquecido a 200°C por 30 minutos."
+  },
+  {
+    "id": 4,
+    "titulo": "Bolinho de Arroz",
+    "ingredientes": ["500g de carne moída", "1 pacote de massa para lasanha", "300g de queijo muçarela", "300g de presunto", "1 lata de molho de tomate", "Sal e temperos a gosto"],
+    "modoPreparo": "Refogue a carne moída e adicione o molho de tomate. Monte a lasanha alternando camadas de massa, carne, presunto e queijo. Finalize com uma camada de queijo e leve ao forno pré-aquecido a 200°C por 30 minutos."
+  },
+  {
+    "id": 4,
+    "titulo": "Bife com Cebola",
+    "ingredientes": ["500g de carne moída", "1 pacote de massa para lasanha", "300g de queijo muçarela", "300g de presunto", "1 lata de molho de tomate", "Sal e temperos a gosto"],
+    "modoPreparo": "Refogue a carne moída e adicione o molho de tomate. Monte a lasanha alternando camadas de massa, carne, presunto e queijo. Finalize com uma camada de queijo e leve ao forno pré-aquecido a 200°C por 30 minutos."
+  },
+  {
+    "id": 5,
+    "titulo": "Picadinho de carne",
+    "ingredientes": ["500g de carne moída", "1 pacote de massa para lasanha", "300g de queijo muçarela", "300g de presunto", "1 lata de molho de tomate", "Sal e temperos a gosto"],
+    "modoPreparo": "Refogue a carne moída e adicione o molho de tomate. Monte a lasanha alternando camadas de massa, carne, presunto e queijo. Finalize com uma camada de queijo e leve ao forno pré-aquecido a 200°C por 30 minutos."
+  }
+]
+  
